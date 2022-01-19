@@ -1,0 +1,30 @@
+.bg-color-green {
+    background-color: green;
+}
+
+.text-white {
+    color: #ffffff !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.letter-space-12 {
+    letter-spacing: 12px !important;
+}
+
+.p-3 {
+    padding: 20px;
+}
+.p-0 {
+    padding: 0;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.m-5 {
+    margin: 5px;
+}

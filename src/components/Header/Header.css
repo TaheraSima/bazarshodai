@@ -1,0 +1,15 @@
+.bg-color-green {
+    background-color: green;
+}
+
+.text-white {
+    color: #ffffff !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.letter-space-15 {
+    letter-spacing: 15px !important;
+}
